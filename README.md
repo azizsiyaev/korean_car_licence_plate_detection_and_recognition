@@ -15,4 +15,9 @@ I used ideas from other github accounts, combined them to solve Licence Plate De
 
 
 # Main Logical Flow
+1. YoloV3 finds 2 points that indicate plate location in the picture 
+2. We pass an array of cropped plate to Recognition model
+3. CRNN finds label to the given image
+
 ![alt text](https://github.com/azizsiyaev/korean_car_licence_plate_detection_and_recognition/blob/master/model.png)
+
