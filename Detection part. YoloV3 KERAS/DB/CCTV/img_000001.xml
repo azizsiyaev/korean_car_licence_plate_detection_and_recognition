@@ -1,0 +1,37 @@
+<annotation>
+    <folder>CHECK_CORRECT</folder>
+    <filename>img_1.png</filename>
+    <path>C:\Users\Aziz\Desktop\DNN Project\CCTV Dataset\CHECK_CORRECT\img_1.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1600</width>
+        <height>1200</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>P4</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>903</xmin>
+            <ymin>724</ymin>
+            <xmax>990</xmax>
+            <ymax>754</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>P1</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1175</xmin>
+            <ymin>352</ymin>
+            <xmax>1225</xmax>
+            <ymax>366</ymax>
+        </bndbox>
+    </object>
+</annotation>
