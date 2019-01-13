@@ -21,3 +21,9 @@ I used ideas from other github accounts, combined them to solve Licence Plate De
 
 ![alt text](https://github.com/azizsiyaev/korean_car_licence_plate_detection_and_recognition/blob/master/model.png)
 
+I have attached YoloV3 and CRNN papers to this repository. I suggest you to read them before you start
+
+
+# Data Generator
+CRNN requires a lot of training data. For that reason I made a plate generator to create 500k images. 
+Train my model on synthetic data first and applied fine-tunning techniques with real data. 
