@@ -28,6 +28,7 @@ I have attached YoloV3 and CRNN papers to this repository. I suggest you to read
 CRNN requires a lot of training data. For that reason I made a plate generator and using it created 500k plate images. 
 Train my model on synthetic data first and applied fine-tunning techniques with real data.
 
+**Generated recognition data**
 ![alt text](https://github.com/azizsiyaev/korean_car_licence_plate_detection_and_recognition/blob/master/Readme%20pics/generated%20plates.png)
 
 In addition to plate generation, program is able to create Parking and CCTV images and annotations in order to create Detection training data.
