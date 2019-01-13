@@ -19,7 +19,7 @@ I used ideas from other github accounts, combined them to solve Licence Plate De
 2. We pass an array of cropped plate to Recognition model
 3. CRNN finds label to the given image
 
-![alt text](https://github.com/azizsiyaev/korean_car_licence_plate_detection_and_recognition/blob/master/model.png)
+![alt text](https://github.com/azizsiyaev/korean_car_licence_plate_detection_and_recognition/blob/master/Readme%20pics/model.png)
 
 I have attached YoloV3 and CRNN papers to this repository. I suggest you to read them before you start
 
