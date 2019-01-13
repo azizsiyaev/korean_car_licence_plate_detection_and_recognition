@@ -30,8 +30,8 @@ Train my model on synthetic data first and applied fine-tunning techniques with 
 
 **Generated recognition data**
 ![alt text](https://github.com/azizsiyaev/korean_car_licence_plate_detection_and_recognition/blob/master/Readme%20pics/generated%20plates.png)
-Fine-tunning
-![alt text]()
+**Fine-tunning**
+![alt text](https://github.com/azizsiyaev/korean_car_licence_plate_detection_and_recognition/blob/master/Readme%20pics/fine-tunning%20.png)
 
 In addition to plate generation, program is able to create Parking and CCTV images and annotations in order to create Detection training data.
 
