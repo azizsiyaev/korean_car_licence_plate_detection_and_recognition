@@ -82,4 +82,4 @@ Provieed techniques work fine. But here are some things to note:
 2. Models don't really like synthetic data. So **don't overfit your model with generated data, but remember about real test data.** 
 
 
-Have this guide will be helpful. Have fun!
+Hope this guide will be helpful. Have fun!
